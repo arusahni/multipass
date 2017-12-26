@@ -1,0 +1,6 @@
+[submodule "vendor/twofactorauth"]
+	path = vendor/twofactorauth
+	url = git@github.com:2factorauth/twofactorauth.git
+[submodule "vendor/parse-domain"]
+	path = vendor/parse-domain
+	url = git@github.com:peerigon/parse-domain.git

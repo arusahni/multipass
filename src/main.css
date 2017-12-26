@@ -1,0 +1,126 @@
+#multipassMenuItem .menuIcon {
+	background-color: #88959E;
+	-webkit-mask-position: center;
+	mask-position: center;
+	-webkit-mask-size: 40px;
+	mask-size: 40px;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+}
+
+#multipassModal * {
+	box-sizing: border-box;
+}
+
+#multipassModal {
+	display: block;
+	min-width: 600px;
+	width: 90%;
+	min-height: 400px;
+	height: 90%;
+	position: fixed;
+	z-index: 100;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	background: white;
+	box-shadow: 0 0 60px 10px rgba(0, 0, 0, 0.9);
+	overflow: hidden;
+}
+
+#multipassOverlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 50;
+	background: rgba(0, 0, 0, 0.6);
+}
+
+#multipassModal.closed,
+#multipassOverlay.closed {
+	display: none;
+}
+
+#multipassModalTitlebar {
+	padding: 8px 0;
+	height: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#multipassModalTitlebar .title {
+	padding-right: 8px;
+	padding-left: 16px;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+#multipassModalTitlebar .close-button {
+	font-size: 1.2rem;
+	cursor: pointer;
+	height: 20px;
+	width: 20px;
+}
+
+#multipassModalContent {
+	max-height: calc(100% - 40px);
+	overflow: auto;
+}
+
+.multipass-site a {
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+	color: black;
+	transition: background 150ms;
+	transition-timing-function: cubic-bezier(0.4, 0.0, 1, 1);
+}
+
+.multipass-site a:hover {
+	background: #ddd;
+	transition-timing-function: cubic-bezier(0.0, 0.0, 0.2, 1);
+}
+
+.multipass-site .title-row {
+	display: flex;
+	justify-content: space-between;
+	height: 20px;
+}
+
+.multipass-site .title .domain {
+	font-size: 0.8em;
+	color: #666;
+}
+
+.multipass-site a .title-row .more-info {
+	opacity: 0;
+	transition: opacity 150ms;
+	transition-timing-function: cubic-bezier(0.4, 0.0, 1, 1);
+}
+
+.multipass-site a:hover .title-row .more-info {
+	display: block;
+	opacity: 1;
+	transition-timing-function: cubic-bezier(0.0, 0.0, 0.2, 1);
+}
+
+.multipass-site .title-row .more-info img {
+	height: 16px;
+}
+
+.multipass-site .exceptions {
+	color: red;
+	margin-left: 5px;
+	text-decoration: underline;
+}
+
+.multipass-site .usernames {
+	max-width: 100%;
+	overflow-x: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	color: #666;
+}

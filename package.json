@@ -1,0 +1,37 @@
+{
+  "name": "multipass",
+  "version": "0.5.0",
+  "description": "Discover which of your LastPass sites support Multifactor authentication!",
+  "main": "multipass.js",
+  "scripts": {
+    "build:png": "mkdir -p dist/res; cp res/*.png dist/res/",
+    "build:svg": "mkdir -p dist/res; svgo -f res/ -o dist/res",
+    "build:data": "scripts/build-data.js",
+    "build:libs": "scripts/vendorize-parse-domain.sh",
+    "build": "rm -rf ./dist/*; npm run build:data && npm run build:libs && npm run build:svg && npm run build:png && cp ./src/* ./dist/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arusahni/multipass.git"
+  },
+  "author": "Aru Sahni",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/arusahni/multipass/issues"
+  },
+  "homepage": "https://github.com/arusahni/multipass#readme",
+  "dependencies": {
+    "js-yaml": "^3.10.0",
+    "parse-domain": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jasmine": "^2.9.1",
+    "jasmine": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-jasmine": "^1.1.1",
+    "svgo": "^1.0.3"
+  }
+}
