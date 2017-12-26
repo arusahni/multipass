@@ -1,6 +1,6 @@
 {
   "name": "multipass",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Discover which of your LastPass sites support Multifactor authentication!",
   "main": "multipass.js",
   "scripts": {
