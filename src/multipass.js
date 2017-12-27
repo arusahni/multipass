@@ -200,7 +200,11 @@ class LastPass {
 
   initButton() {
     removeIfExists('#multipassMenuItem');
-    const menu = document.querySelector('#leftMenuItems .no-omaria');
+    let menu = document.querySelector('#leftMenuItems .no-omaria');
+    if (menu.offsetParent === null) { //  If no-omaria isn't visible, use the other
+      // not sure what the 'omaria' / 'no-omaria' distinction is.
+      menu = document.querySelector('#leftMenuItems .omaria');
+    }
     const menuItem = document.createElement('div');
     menuItem.id = 'multipassMenuItem';
     menuItem.classList.add('leftMenuItem');

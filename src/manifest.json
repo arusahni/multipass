@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Multipass",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "description": "Multifactor authentication checker for LastPass.",
     "author": "Aru Sahni",
     "homepage_url": "https://arusahni.github.io/multipass",
