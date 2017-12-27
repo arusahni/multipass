@@ -1,4 +1,6 @@
 dist/
+*.crx
+*.zip
 
 # Created by https://www.gitignore.io/api/vim,linux,node
 

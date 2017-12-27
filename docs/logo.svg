@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="7.6867857in"
+   height="5.7236056in"
+   viewBox="0 0 195.24437 145.37957"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/aru/code/multipass/res/logo-256.png"
+   inkscape:export-xdpi="33.369465"
+   inkscape:export-ydpi="33.369465">
+  <title
+     id="title4615">Multipass Logo</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="345.07015"
+     inkscape:cy="279.99298"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="true"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1357"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:object-paths="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Multipass Logo</dc:title>
+        <dc:date>2017-12-10</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Aru Sahni</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Multipass Case"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.84062052,-150.77975)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.41400051;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 172.0332,150.86523 a 5.207521,5.207521 0 0 0 -0.10547,0.008 c -8.05832,0.70412 -12.79666,4.59035 -16.03711,5.73633 -1.62022,0.57298 -2.86555,0.78944 -5.02148,0.36328 -2.15593,-0.42616 -5.27672,-1.67249 -9.67578,-4.55664 a 5.207521,5.207521 0 0 0 -2.85352,-0.85157 H 26.835938 a 5.207521,5.207521 0 0 0 -5.207032,5.20703 v 61.23243 21.54297 H 32.042969 V 218.00391 161.97852 H 137.00391 c 4.41134,2.72447 8.28878,4.50784 11.8457,5.21093 3.9826,0.78724 7.62395,0.26023 10.51367,-0.76172 5.76513,-2.03882 8.54142,-4.7319 13.4375,-5.17187 6.68934,-0.43865 9.449,0.49241 12.5,3.67383 l 0.36328,105.96484 c -2.38555,2.22163 -4.1123,3.5431 -5.15625,3.89649 -1.28093,0.4336 -2.85983,0.43006 -6.85351,-0.59766 a 5.207521,5.207521 0 0 0 -0.0879,-0.0234 c -4.59938,-1.09758 -8.7397,-3.7627 -14.81836,-4.99804 -5.71587,-1.16162 -12.71704,-0.0565 -20.94532,4.85546 H 54.050781 v 10.41407 H 139.0957 a 5.207521,5.207521 0 0 0 2.82618,-0.83203 c 7.45595,-4.8177 11.06622,-4.98146 14.75195,-4.23243 3.67491,0.74684 7.96967,3.35822 14.42578,4.90821 4.64317,1.19166 8.73374,1.72931 12.74609,0.37109 4.02484,-1.36244 6.99111,-4.07861 10.70703,-7.78125 a 5.207521,5.207521 0 0 0 1.53125,-3.70508 l -0.37695,-110.36914 a 5.207521,5.207521 0 0 0 -1.2168,-3.32812 c -5.31259,-6.33636 -12.94929,-9.24276 -22.45703,-8.60743 z"
+       id="rect4506"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Notch">
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 94.632812 348.81445 L 101.74609 412.66797 L 38.412109 394.62305 L 31.646484 438.00195 L 90.294922 442.51367 L 51.947266 494.04883 L 92.898438 514.69727 L 116.66992 460.73242 L 143.73828 515.04492 L 183.12695 494.04883 L 144.43164 442.51367 L 203.42773 438.34961 L 197.70312 394.62305 L 132.98047 412.66797 L 140.09375 348.81445 L 94.632812 348.81445 z "
+       id="path4600"
+       transform="scale(0.26458334)" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="M 117.53711 314.37305 A 117.55511 117.55511 0 0 0 -0.017578125 431.92969 A 117.55511 117.55511 0 0 0 117.53711 549.48438 A 117.55511 117.55511 0 0 0 235.0918 431.92969 A 117.55511 117.55511 0 0 0 117.53711 314.37305 z M 94.632812 348.81445 L 140.09375 348.81445 L 132.98047 412.66797 L 197.70312 394.62305 L 203.42773 438.34961 L 144.43164 442.51367 L 183.12695 494.04883 L 143.73828 515.04492 L 116.66992 460.73242 L 92.898438 514.69727 L 51.947266 494.04883 L 90.294922 442.51367 L 31.646484 438.00195 L 38.412109 394.62305 L 101.74609 412.66797 L 94.632812 348.81445 z "
+       id="path3699"
+       transform="scale(0.26458334)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:47.625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="19.243406"
+       y="112.10453"
+       id="text4717"><tspan
+         sodipodi:role="line"
+         id="tspan4715"
+         x="19.243406"
+         y="154.24149"
+         style="stroke-width:0.26458335px" /></text>
+    <g
+       aria-label="*"
+       style="font-style:normal;font-weight:normal;font-size:94.02376556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5223543px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4721" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Letter"
+     transform="translate(-0.84062052,-6.1797742)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4514"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Lithos Pro';-inkscape-font-specification:'Lithos Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458334)"><flowRegion
+         id="flowRegion4516"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lithos Pro';-inkscape-font-specification:'Lithos Pro'"><rect
+           id="rect4518"
+           width="304.28571"
+           height="325.71429"
+           x="258.57144"
+           y="151.71428"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lithos Pro';-inkscape-font-specification:'Lithos Pro'" /></flowRegion><flowPara
+         id="flowPara4520"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.33334351px;font-family:'Lithos Pro';-inkscape-font-specification:'Lithos Pro'">M</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4522"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion4524"><rect
+           id="rect4526"
+           width="370"
+           height="384.28571"
+           x="155.71428"
+           y="124.57143" /></flowRegion><flowPara
+         id="flowPara4528" /></flowRoot>    <g
+       aria-label="M"
+       style="font-style:normal;font-weight:normal;font-size:10.58333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458335"
+       id="text4532"
+       transform="translate(2.6458335,-1.0583334)">
+      <path
+         d="m 67.822165,109.14577 c 1.164167,-3.78354 14.552084,-46.275623 16.492362,-52.290484 3.880556,8.828264 15.910283,32.40264 21.537083,42.880141 h 0.19403 c 3.97757,-6.305903 21.14903,-36.671252 24.64153,-42.10403 1.55222,3.589514 16.39535,44.238333 18.82069,51.514373 l 8.3432,-3.58951 C 153.67946,95.369801 136.31397,48.124036 132.91849,40.168896 h -0.19403 C 130.8812,43.176327 110.70231,78.586398 107.30682,84.019176 104.3964,79.168481 86.157791,43.273341 83.15036,37.161466 H 82.956332 C 82.471263,39.489799 61.71029,102.06376 59.867026,106.13834 Z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.01389313px;font-family:'Lithos Pro';-inkscape-font-specification:'Lithos Pro';stroke-width:0.26458335"
+         id="path826"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -8,10 +8,9 @@ of multifactor authentication.
 ## Getting Started
 
 1. Install the extension.
-    * Firefox
-    * Chrome
-2. Log in to the [LastPass
-website](https://lastpass.com/?&ac=1&lpnorefresh=1&fromwebsite=1&newvault=1&nk=1)
+    * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/multipass-mfa/)
+    * [Chrome](https://chrome.google.com/webstore/detail/multipass/icaodbnoalimdopaklokefncjieiimle)
+2. Log in to the [LastPass website](https://lastpass.com/?&ac=1&lpnorefresh=1&fromwebsite=1&newvault=1&nk=1)
 (not through the extension).
 3. Click the "Multipass" link in the left sidebar.
 4. Interact with MFA-compatible accounts:
@@ -40,7 +39,8 @@ in mind, and takes the following measures:
 * No untrusted third party dependencies. All third party code was reviewed and
   is vendorized.
 
-If you have a security concern, please open an issue. If it's sensitive, please email me: `aru at arusahni.net`.
+If you have a security concern, please open an issue. If it's sensitive, please
+email me: `aru at arusahni.net`.
 
 ## FAQ
 
