@@ -44,7 +44,7 @@ email me: `aru at arusahni.net`.
 
 ## FAQ
 
-**Q**: I know a service supports MFA, why isn't it recognized as such by Multipass.  
+**Q**: I know a service supports MFA, why isn't it recognized as such by Multipass?  
 **A**: First, check the URL of the saved site for correctness. Second, check
 [TwoFactorAuth.org](http://twofactorauth.org/) to see if the service is listed.
 If not, follow the instructions on the site and submit an issue to have the
